@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546340275575",
+    "project_id": "dailychecks-cc899",
+    "storage_bucket": "dailychecks-cc899.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546340275575:android:0e0fcf6693c31265418d72",
+        "android_client_info": {
+          "package_name": "com.crazycoderz.dailychecks.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnXQEbn1FlXxXXOA3bErs4QPWOFE2yWHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546340275575:android:ac09d41a7805e2f9418d72",
+        "android_client_info": {
+          "package_name": "com.utility.dailychecks.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnXQEbn1FlXxXXOA3bErs4QPWOFE2yWHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

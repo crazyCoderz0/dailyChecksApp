@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daily Checks</string>
+    <string name="admob_app_id">ca-app-pub-4897409472190291~4278501443</string>
+    <string name="admob_banner_unit_id">ca-app-pub-4897409472190291/8244620435</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-4897409472190291/4185108468</string>
+    <string name="notification_channel_name">Daily reminders</string>
+    <string name="notification_channel_description">Checklist reminder notifications</string>
+    <string name="default_notification_channel_id">daily_checks_reminders</string>
+    <string name="notification_title">Daily Checks reminder</string>
+    <string name="notification_body">Review today’s safety checks.</string>
+</resources>
